@@ -1,0 +1,94 @@
+{
+  "libraryName": "Renz's Personal Library",
+  "lastUpdated": "2026-11-12",
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "genre": "Programming",
+      "rating": 4.8,
+      "pages": 464,
+      "available": true,
+      "description": "A handbook of agile software craftsmanship. It explains how to write code that other people can actually read, name variables so they mean something, and keep functions small enough to understand in one sitting."
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "year": 1999,
+      "genre": "Programming",
+      "rating": 4.7,
+      "pages": 352,
+      "available": false,
+      "description": "Practical advice for working developers, from avoiding duplicated knowledge to automating the boring parts. It treats programming as a craft you keep improving rather than a list of syntax to memorise."
+    },
+    {
+      "id": 3,
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "year": 2018,
+      "genre": "Software Design",
+      "rating": 4.6,
+      "pages": 448,
+      "available": true,
+      "description": "A catalogue of small, safe transformations that improve the design of existing code without changing what it does. Each technique is named, described, and shown with a before-and-after example."
+    },
+    {
+      "id": 4,
+      "title": "Design Patterns",
+      "author": "Erich Gamma et al.",
+      "year": 1994,
+      "genre": "Software Design",
+      "rating": 4.4,
+      "pages": 395,
+      "available": true,
+      "description": "The book that named the classic object-oriented patterns such as Observer, Factory and Singleton. It shows the recurring problems each pattern solves and the trade-offs of applying it."
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "year": 2009,
+      "genre": "Computer Science",
+      "rating": 4.5,
+      "pages": 1292,
+      "available": false,
+      "description": "A rigorous reference covering sorting, graphs, trees, dynamic programming and more. Heavy on proof and analysis, which is why it is the standard text for a data structures and algorithms course."
+    },
+    {
+      "id": 6,
+      "title": "Flutter in Action",
+      "author": "Eric Windmill",
+      "year": 2020,
+      "genre": "Mobile Development",
+      "rating": 4.3,
+      "pages": 400,
+      "available": true,
+      "description": "A hands-on guide to building cross-platform apps with Flutter and Dart. Covers widgets, state management, layout, and the asset pipeline this very application is built on."
+    },
+    {
+      "id": 7,
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "year": 2013,
+      "genre": "Design",
+      "rating": 4.6,
+      "pages": 368,
+      "available": true,
+      "description": "Explains why some doors, taps and apps are instantly understandable while others are not. Its ideas about affordances and feedback are the reason modern interfaces look the way they do."
+    },
+    {
+      "id": 8,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "genre": "Science Fiction",
+      "rating": 4.9,
+      "pages": 412,
+      "available": false,
+      "description": "A science fiction novel set on the desert planet Arrakis, where control of the spice trade decides the fate of empires. Included here as the one book in the shelf that is not about software at all."
+    }
+  ]
+}
